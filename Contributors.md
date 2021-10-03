@@ -4,3 +4,4 @@
 - [h4x0r47](https://github.com/haxor47/)
 - [Sanskar Shrivastava](https://github.com/SanskarSh)
 - [Atharv Parashar](https://github.com/atharvparashar)
+- [Tushar Bansal](https://github.com/Tushar99coder)
